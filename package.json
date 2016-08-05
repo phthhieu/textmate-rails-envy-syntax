@@ -1,0 +1,18 @@
+{
+  "name": "textmate-active4d-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Textmate rails-envy theme for Atom",
+  "keywords": [
+    "syntax",
+    "theme",
+    "textmate",
+    "rails-envy"
+  ],
+  "repository": "https://github.com/phthhieu/textmate-rails-envy-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
+
